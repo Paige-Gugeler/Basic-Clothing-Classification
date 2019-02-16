@@ -1,0 +1,2 @@
+# Basic-Clothing-Classification
+This is a neural network to classify types of clothing. I trained the neural network with the Fashion MNIST database that contains 28*28 pixel images. The data can be found here: http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/. A tutorial to do this yourself can be found here: https://medium.com/tensorist/classifying-fashion-articles-using-tensorflow-fashion-mnist-f22e8a04728a. This is my second project in AI and is fairly simple. 
